@@ -1,0 +1,27 @@
+
+div{
+    background-color: black;
+    color: white;
+    width:330px;
+    height:300px;
+    margin: 0px;
+    position: relative;
+    top: 0px;
+}
+.button{
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    padding: 20px 40px;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    position:absolute;
+    top:130px;
+    left:70px; 
+}
+footer{
+    font-style:italic;
+    font-size: 12px;
+    bottom:0px
+}
